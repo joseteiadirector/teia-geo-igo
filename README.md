@@ -33,16 +33,17 @@ IGO is the discipline of **observing and governing how artificial intelligences 
 
 ## Proprietary metrics (KAPIs)
 
-Teia GEO IGO measures brand presence in AI through its own patented indicators:
+**KAPIs — Key Algorithmic Predictive Indicators.** Teia GEO IGO's proprietary, patent-backed metrics, defined in the peer-reviewed paper *"Infraestrutura de Governança Observacional"* (Zenodo, DOI: 10.5281/zenodo.19765674):
 
-- **ICE — Índice de Citação Espontânea**: measures spontaneous brand citation by LLMs.
-- **GAP — Grau de Alinhamento de Posicionamento**: measures alignment between intended and actual AI positioning.
-- **CPI — Índice de Competitividade de Posicionamento**: measures competitive positioning in LLM responses.
-- **Estabilidade Cognitiva**: measures consistency of answers across multiple queries over time.
+- **ICE — Índice de Eficiência Cognitiva** (*Cognitive Efficiency Index*): how efficiently the brand emerges in AI answers relative to its potential.
+- **GAP — Precisão de Alinhamento de Observabilidade** (*Observability Alignment Precision*): how precisely the brand's observed positioning aligns with the intended positioning.
+- **CPI — Índice de Previsibilidade Cognitiva** (*Cognitive Predictability Index*): how predictable and consistent the brand's representation is over time.
+- **Estabilidade Cognitiva** (*Cognitive Stability*): consistency of the brand's representation across multiple queries.
 
 ## Scientific foundation & intellectual property
 
 - **Patent — INPI (Brazil):** BR 10 2026 001032-4
+- **Scientific paper — Zenodo:** *"Infraestrutura de Governança Observacional"*, DOI 10.5281/zenodo.19765674 (canonical source for the KAPIs)
 - **Scientific paper — SSRN:** Abstract ID 6295818
 - **Validation:** 4 institutions and 1,920+ audited AI interactions
 
@@ -68,6 +69,7 @@ Teia GEO IGO measures brand presence in AI through its own patented indicators:
 - **Wikidata — Platform:** https://www.wikidata.org/wiki/Q138853832
 - **Wikidata — Teia Studio:** https://www.wikidata.org/wiki/Q138853725
 - **Wikidata — Founder:** https://www.wikidata.org/wiki/Q138853795
+- **Scientific paper (Zenodo):** https://doi.org/10.5281/zenodo.19765674
 - **Scientific paper (SSRN):** https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6295818
 
 ---
